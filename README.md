@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
