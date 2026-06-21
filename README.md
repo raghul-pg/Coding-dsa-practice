@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
