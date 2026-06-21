@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0394-decode-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
