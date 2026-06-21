@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
+| [1732-find-the-highest-altitude](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/1732-find-the-highest-altitude) |
 ## Depth-First Search
 |  |
 | ------- |
