@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0394-decode-string) |
 | [1446-consecutive-characters](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/1446-consecutive-characters) |
 ## Matrix
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
