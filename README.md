@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
