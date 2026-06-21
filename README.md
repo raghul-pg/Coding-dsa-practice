@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
 | [1732-find-the-highest-altitude](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/1732-find-the-highest-altitude) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/0832-flipping-an-image) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/raghul-pg/Coding-dsa-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Stack
 |  |
 | ------- |
